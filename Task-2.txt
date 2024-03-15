@@ -41,7 +41,7 @@ output:
 Name:Ramya
 Age:18
 
-2) can't able to solve the second Question rised querie 
+
 
 
 3)Create Class Account with data member As Balance . Create two constructors (no argument, and two arguments) and perform following task
